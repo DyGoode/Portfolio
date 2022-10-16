@@ -1,0 +1,16 @@
+
+
+form{
+    margin-top: 20px;
+}
+
+textarea, input{
+    background-color: brown;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.side-articles h1{
+    margin-bottom: 20px;
+}
